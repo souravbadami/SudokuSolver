@@ -1,2 +1,2 @@
 # SudokuSolver
-Sudoku Instance Solver
+This repository contain scripts to solve a sudoku game provided with a valid instance.
